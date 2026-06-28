@@ -1,0 +1,34 @@
+name: Generate Banner
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate-banner.js"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install figlet
+        run: npm install figlet
+
+      - name: Generate banner
+        run: node scripts/generate-banner.js
+
+      - name: Commit banner
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add assets/banner.svg
+          git commit -m "Generate ASCII banner" || exit 0
+          git push
