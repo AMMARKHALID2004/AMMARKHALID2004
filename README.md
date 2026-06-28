@@ -1,6 +1,10 @@
-## Hi there 👋
-## Tech Stack
+![Banner](assets/banner.svg)
 
+# Hi there 👋
+
+I'm a Computer Science student with a strong interest in Machine Learning and Data Science. I enjoy working with Python and Jupyter Notebook to explore data, build models, and solve interesting problems. I'm always learning and looking to grow as a developer.
+
+## Tech Stack
 <p>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="65" height="65" alt="Python"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="65" height="65" alt="Git"/>
@@ -18,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammarprogrammer)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/ammarkhalidak)
 
-## Software I use
+## Software I Use
 <p>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="65" height="65" alt="VS Code"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" width="65" height="65" alt="PyCharm"/>
@@ -26,5 +30,5 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="65" height="65" alt="Jupyter Notebook"/>
 </p>
 
-## Stats
+## GitHub Stats
 [![My GitHub Stats](images/userstats.svg)](https://github.com/cicirello/user-statistician)
