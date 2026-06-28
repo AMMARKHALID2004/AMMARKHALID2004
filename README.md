@@ -1,4 +1,2 @@
 ## Hi there 👋
-
-![My GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+[![My GitHub Stats](images/userstats.svg)](https://github.com/cicirello/user-statistician)
