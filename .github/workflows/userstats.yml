@@ -10,14 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
     - uses: actions/checkout@v6
 
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
       with:
-        colors: dark
-        include-title: false
+        colors: dark-dimmed
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
