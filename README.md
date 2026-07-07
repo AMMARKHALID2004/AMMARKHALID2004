@@ -15,6 +15,7 @@ I'm a Computer Science student with a strong interest in Machine Learning and Da
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" width="65" height="65" alt="Neovim"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="65" height="65" alt="NumPy"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="65" height="65" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matplotlib.png" width="65" height="65" alt="Matplotlib"/>
 </p>
 
 ## Social
